@@ -1,4 +1,5 @@
-# Social Media Analytics Frontend
+# Social Media Analytics 
+
 
 A responsive React frontend web application that delivers real-time social media analytical insights.
 
