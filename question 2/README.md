@@ -83,3 +83,19 @@ The application will be available at [http://localhost:3000](http://localhost:30
   - Trending Posts: Shows posts with the maximum number of comments
   - Feed: Displays the posts in real-time, with the newest posts appearing at the top
 - Uses Material UI for a responsive and modern UI
+
+## Screnshots
+C:\Users\Akash Deep\OneDrive\Pictures\Screenshots\Screenshot 2025-03-20 195748.png
+
+![image](https://github.com/user-attachments/assets/554e2efc-fcd6-4f5b-9edb-be83fbb389dd)
+
+![image](https://github.com/user-attachments/assets/7c1a42d2-7cf1-4591-802f-789363a56917)
+
+![image](https://github.com/user-attachments/assets/c7d2483c-f2bd-4a40-8d05-4eb4954bc01c)
+
+
+
+
+
+
+
