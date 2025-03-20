@@ -85,7 +85,8 @@ The application will be available at [http://localhost:3000](http://localhost:30
 - Uses Material UI for a responsive and modern UI
 
 ## Screnshots
-C:\Users\Akash Deep\OneDrive\Pictures\Screenshots\Screenshot 2025-03-20 195748.png
+![image](https://github.com/user-attachments/assets/7adcff58-c9ed-4e80-8f5e-4fdc8ed4b048)
+
 
 ![image](https://github.com/user-attachments/assets/554e2efc-fcd6-4f5b-9edb-be83fbb389dd)
 
